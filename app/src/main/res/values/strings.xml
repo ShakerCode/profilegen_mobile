@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ProfileGen</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="welcome">Profile Generator</string>
+    <string name="first_fragment">Enter information to be stored in a profile. First name, last name, and instrument can only contain alphabetical characters</string>
+    <string name="second_fragment">Enter search criteria to filter by</string>
+
+    <string name="profiles">Profiles</string>
+    <string name="search">Search</string>
+
+    <string name="fnameInput">First Name</string>
+    <string name="lnameInput">Last Name</string>
+    <string name="instrumentInput">Instrument</string>
+    <string name="emailInput">Email</string>
+    <string name="send">Send!</string>
+    <string name="returnButton">Return</string>
+    <string name="resetButton">Reset</string>
+</resources>
